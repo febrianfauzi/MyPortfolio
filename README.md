@@ -17,8 +17,15 @@
       <td>Visualisasi Data</td>
       <td>Membuat dashboard menggunakan data superstore sales</td>
       <td>Excel</td>
-      <td><img src="https://github.com/febrianfauzi/MyPortfolio/blob/main/Screenshot/Superstore-data.png" width=100 height=100></td>
-      <td><a href="https://github.com/febrianfauzi/MyPortfolio/blob/main/Files/superstore_data.xlsx">Link</td>
+      <td align="center"><img src="https://github.com/febrianfauzi/MyPortfolio/blob/main/Screenshot/Superstore-data.png" width=120 height=100></td>
+      <td align="center"><a href="https://github.com/febrianfauzi/MyPortfolio/blob/main/Files/superstore_data.xlsx">Link</td>
+    </tr>
+    <tr>
+      <td>Front End</td>
+      <td>Membuat contoh tampilan frontend menggunakan tailwind css</td>
+      <td>Tailwind</td>
+      <td align="center"><img src="https://github.com/febrianfauzi/MyPortfolio/blob/main/Screenshot/Tailwind.png" width=140 height=100></td>
+      <td align="center"><a href="https://github.com/febrianfauzi/portfolio-tailwind-css">Link</td>
     </tr>
   </tbody>
 </table>
