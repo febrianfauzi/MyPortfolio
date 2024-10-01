@@ -8,6 +8,7 @@
       <td><strong>Portfolio Name</strong></td>
       <td><strong>Description</strong></td>
       <td><strong>Screenshot</strong></td>
+      <td><strong>Link</strong></td>
     </tr>
   </thead>
   <tbody>
@@ -15,6 +16,7 @@
       <td>Visualisasi Data</td>
       <td>Membuat dashboard menggunakan data superstore sales</td>
       <td><img src="https://github.com/febrianfauzi/MyPortfolio/blob/main/Screenshot/Superstore-data.png" width=100 height=100></td>
+      <td><a href="https://github.com/febrianfauzi/MyPortfolio/blob/main/File/superstore_data.xlsx">Link</td>
     </tr>
   </tbody>
 </table>
