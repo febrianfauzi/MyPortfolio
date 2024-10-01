@@ -1,4 +1,4 @@
-# <summary><strong>Hello👋, I'm Febrian</strong></summary>
+# <strong>Hello👋, I'm Febrian</strong>
 <p> Data Analyst | Programmer </p>
 
 ## <summary><strong>My Portfolio</strong></summary>
