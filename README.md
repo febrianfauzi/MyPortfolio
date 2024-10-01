@@ -12,7 +12,7 @@
   </thead>
   <tbody>
     <tr>
-      <td>Data Visualisasi Data</td>
+      <td>Visualisasi Data</td>
       <td>Membuat dashboard menggunakan data superstore sales</td>
       <td><img src="https://github.com/febrianfauzi/MyPortfolio/blob/main/Screenshot/Superstore-data.png" width=100 height=100></td>
     </tr>
