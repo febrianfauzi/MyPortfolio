@@ -12,9 +12,9 @@
   </thead>
   <tbody>
     <tr>
-      <td>Data Manipulation</td>
-      <td>Data manipulation using Python</td>
-      <td>Link: <a href="https://github.com/febrianfauzi/portfolio-tailwind-css">Here</a></td 
+      <td>Data Visualisasi Data</td>
+      <td>Membuat dashboard menggunakan data superstore sales</td>
+      <td><img src="https://github.com/febrianfauzi/MyPortfolio/blob/main/Screenshot/Superstore-data.png" width=100 height=100></td>
     </tr>
   </tbody>
 </table>
