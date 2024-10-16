@@ -14,18 +14,28 @@
   </thead>
   <tbody>
     <tr>
-      <td>Visualisasi Data</td>
+      <td>Data Visualization</td>
       <td>Membuat dashboard menggunakan data superstore sales</td>
       <td>Excel</td>
       <td align="center"><img src="https://github.com/febrianfauzi/MyPortfolio/blob/main/Screenshot/Superstore-data.png" width=120 height=100></td>
-      <td align="center"><a href="https://github.com/febrianfauzi/MyPortfolio/blob/main/Files/superstore_data.xlsx">Link</td>
+      <td align="center"><a href="https://github.com/febrianfauzi/MyPortfolio/blob/main/Files/superstore_data.xlsx">Github</td>
+    </tr>
+    <tr>
+      <td>Data Manipulation</td>
+      <td>Case : Menampilkan produk dengan penjualan tertinggi berdasarkan kategori tertentu</td>
+      <td>Python, Jupyter</td>
+      <td align="center"><img src="https://github.com/febrianfauzi/MyPortfolio/blob/main/Screenshot/Screenshot%202024-10-16%20132758.png" width=120 height=100></td>
+      <td align="center">
+        <a href="https://github.com/febrianfauzi/MyPortfolio/blob/main/Python/Data%20Manipulation/Case1/data_manipulation_case1.ipynb">Github
+        <a href="https://colab.research.google.com/drive/1xAFMKUW1q6bALn1LVlXqb8Przl92u3Cm">Colab
+      </td>
     </tr>
     <tr>
       <td>Front End</td>
       <td>Membuat contoh tampilan frontend menggunakan tailwind css</td>
       <td>Tailwind</td>
       <td align="center"><img src="https://github.com/febrianfauzi/MyPortfolio/blob/main/Screenshot/Tailwind.png" width=150 height=100></td>
-      <td align="center"><a href="https://github.com/febrianfauzi/portfolio-tailwind-css">Link</td>
+      <td align="center"><a href="https://github.com/febrianfauzi/portfolio-tailwind-css">Github</td>
     </tr>
   </tbody>
 </table>
