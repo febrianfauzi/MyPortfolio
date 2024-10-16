@@ -24,7 +24,7 @@
       <td>Data Manipulation</td>
       <td>Case : Menampilkan produk dengan penjualan tertinggi berdasarkan kategori tertentu</td>
       <td>Python, Jupyter</td>
-      <td align="center"><img src="https://github.com/febrianfauzi/MyPortfolio/blob/main/Screenshot/Screenshot%202024-10-16%20132758.png" width=120 height=100></td>
+      <td align="center"><img src="https://github.com/febrianfauzi/MyPortfolio/blob/main/Screenshot/Screenshot%202024-10-16%20140116.png" width=120 height=100></td>
       <td align="center">
         <a href="https://github.com/febrianfauzi/MyPortfolio/blob/main/Python/Data%20Manipulation/Case1/data_manipulation_case1.ipynb">Github
         <a href="https://colab.research.google.com/drive/1FT95nAaPXaruqvmWKAsRY8IILsKZziPX">Colab
