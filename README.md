@@ -42,7 +42,10 @@
       <td>Membuat contoh tampilan frontend menggunakan tailwind css</td>
       <td>Tailwind</td>
       <td align="center"><img src="https://github.com/febrianfauzi/MyPortfolio/blob/main/Screenshot/Tailwind.png" width=150 height=100></td>
-      <td align="center"><a href="https://github.com/febrianfauzi/portfolio-tailwind-css">Github</td>
+      <td align="center">
+        <a href="https://github.com/febrianfauzi/portfolio-tailwind-css">Github
+        <a href="https://febrianfauzi.github.io/portfolio-tailwind-css/">Demo
+        </td>
     </tr>
   </tbody>
 </table>
