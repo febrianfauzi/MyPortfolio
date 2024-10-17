@@ -21,6 +21,13 @@
       <td align="center"><a href="https://github.com/febrianfauzi/MyPortfolio/blob/main/Files/superstore_data.xlsx">Github</td>
     </tr>
     <tr>
+      <td>Data Visualization</td>
+      <td>Membuat dashboard menggunakan data superstore sales</td>
+      <td>Excel</td>
+      <td align="center"><img src="https://github.com/febrianfauzi/MyPortfolio/blob/main/Screenshot/Superstore-data.png" width=120 height=100></td>
+      <td align="center"><a href="https://public.tableau.com/views/Superstore_17291612356780/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">Show</td>
+    </tr>
+    <tr>
       <td>Data Manipulation</td>
       <td>Case : Menampilkan produk dengan penjualan tertinggi berdasarkan kategori tertentu</td>
       <td>Python, Jupyter</td>
