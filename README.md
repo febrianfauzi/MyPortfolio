@@ -25,7 +25,7 @@
       <td>Membuat dashboard menggunakan Tableau</td>
       <td>Tableau</td>
       <td align="center"><img src="https://github.com/febrianfauzi/MyPortfolio/blob/main/Screenshot/Screenshot%202024-10-17%20173824.png" width=120 height=100></td>
-      <td align="center"><a href="https://public.tableau.com/views/Superstore_17291612356780/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">Show</td>
+      <td align="center"><a href="https://public.tableau.com/views/Superstore_17291612356780/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">Tableau</td>
     </tr>
     <tr>
       <td>Data Manipulation</td>
